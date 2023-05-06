@@ -1,0 +1,8 @@
+[
+    { "id": 1, "name": "mohamed", "dept": "IT" },
+    { "id": 2, "name": "ali", "dept": "IT" },
+    { "id": 3, "name": "hassan", "dept": "IS" },
+    { "id": 4, "name": "mohamed", "dept": "CS" },
+    { "id": 5, "name": "ahmed", "dept": "IT" },
+    { "id": 6, "name": "mohamed", "dept": "IT" }
+]
