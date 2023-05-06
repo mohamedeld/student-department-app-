@@ -9,4 +9,4 @@ student and departments app using nodejs
 6- add authentication and authorization 
 7- allow admin user to insert new student or add new student as admin
 8- add Not Found page
-9- finally add Error middleware to catch errors 
+9- finally add Error middleware to catch errors  
